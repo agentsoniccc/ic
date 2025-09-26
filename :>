@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Valentine Confession</title>
+  <title> hi >< </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
@@ -67,7 +67,7 @@
 </head>
 <body>
   <div class="confession-container">
-    <div class="subtitle">Hello, my love.</div>
+    <div class="subtitle">Good evening, my love.</div>
     <button class="heart-btn" id="revealBtn">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Love_Heart_SVG.svg" alt="Heart">
     </button>
